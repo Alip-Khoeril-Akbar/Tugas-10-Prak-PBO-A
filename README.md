@@ -1,6 +1,7 @@
 1. Menambahkan fitur Ubah PIN
    - Membuat metode changePin() dalam kelas Account untuk mengubah PIN dengan mealkukan verifikasi/memasukan PIN lama, meminta nasabah untuk memasukan PIN baru dua kali, validasi bahwa dua PIN yang dimasukan nasabah cocok, lalu perbarui PIN juka validasi berhasil.
    - Menambahkan opsi "Ubah PIN" pada menu utama. Dimana jika opsi ini di pilih akan memanggil metode changePIN().
+   
    Source Code metode changePin()
    ![Screenshot 2024-11-15 132833](https://github.com/user-attachments/assets/85b117f4-8bfc-4bd6-bc3a-48a6b84f7420)
 
